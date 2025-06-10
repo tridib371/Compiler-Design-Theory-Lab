@@ -1,0 +1,11 @@
+Identifiers:
+valid: myVar, _temp, count1
+invalid: 1stVar, var-name, my var
+
+Keywords:
+valid: int, return, while
+invalid: integer, ret, whilst
+
+Operators:
+valid: +, -, *, /, ==, !=
+invalid: +=-, ++*, ===

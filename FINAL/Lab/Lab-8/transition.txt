@@ -1,0 +1,7 @@
+A 1 X
+B 0 Y
+B 1 Z
+C 3 X
+C 4 Y
+D 3 Z
+D 4 X
